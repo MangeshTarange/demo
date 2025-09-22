@@ -1,0 +1,2 @@
+Nikhil shinde
+ASCII was the foundation, but now we mostly use Unicode (UTF-8), which supports characters of all languages (e.g., Hindi, Chinese, emojis).
